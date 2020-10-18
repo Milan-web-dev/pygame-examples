@@ -12,3 +12,5 @@ just a couple of quick examples to get you started.
 
 Please look at the Wiki page for more information about how to get started and where to go for more detailed help.
 https://github.com/pddring/pygame-examples/wiki
+
+[![Run on Repl.it](https://repl.it/badge/github/Milan-web-dev/pygame-examples)](https://repl.it/github/Milan-web-dev/pygame-examples)
